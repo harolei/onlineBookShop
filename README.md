@@ -1,0 +1,1 @@
+This project is based on Spring MVC, and the core idea of this project is to learn the concept of Spring and practice it.
